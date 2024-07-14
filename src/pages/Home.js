@@ -9,7 +9,7 @@ export default function Home() {
     <div>
       <div className='bg-brown d-flex justify-content-center align-items-center py-5'  >
         <Container className=' mt-5'>
-{/* tst */}
+{/* tstzxc */}
           <Row className=' justify-content-between  align-items-center flex-column-reverse flex-md-row' >
             <Col md="6">
               <h1 className='display-4 ff-1 text-white fw-bolder '>Awaken Your Senses with Our Coffee</h1>
